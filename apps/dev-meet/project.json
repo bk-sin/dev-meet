@@ -1,0 +1,9 @@
+{
+  "name": "dev-meet",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/dev-meet/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project dev-meet --web",
+  "targets": {}
+}
